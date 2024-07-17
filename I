@@ -1,0 +1,27 @@
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Madimi+One&size=25&duration=2000&pause=0700&color=55FF30&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Carlos+Leandro!)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-leandro-72a436252/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosleandrop_/)
+
+<h4>Welcome to my Profilee 😉</h4>
+
+<h4>I'm a young man with great admiration for technology, especially my love Python😁. Here on this profile I share projects with many workarounds, but all with effort!!.<br></h4>
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Madimi+One&size=18&duration=2000&pause=0700&color=55FF30&repeat=false&random=false&width=435&height=30&lines=Linguagens)](https://git.io/typing-svg)
+
+<div style="display: inline_block"><br/>
+<img align="center" alt"Python" src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=Python&logoColor=white">
+<img align="center" alt"SpreadSheets" src="https://img.shields.io/badge/SpreadSheets-20232A?style=for-the-badge&logo=SpreadSheets&logoColor=61DAFB">
+
+</div>
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Madimi+One&size=18&duration=2000&pause=0700&color=55FF30&repeat=false&random=false&width=435&height=30&lines=Banco+de+Dados)](https://git.io/typing-svg)
+
+<div style="display: inline_block"><br/>
+<img align="center" alt"HTML" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="center" alt"HTML" src="https://img.shields.io/badge/Python-4EA94B?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" alt"HTML" src="https://img.shields.io/badge/SpreadSheets-4EA94B?style=for-the-badge&logo=SpreadSheets&logoColor=white">
+  
+</div>
+<br>
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CarlosLeandro&layout=compact&bg_color=100F0B9A&border_color=55FF30FF&title_color=55FF30FF&text_color=FFF)
